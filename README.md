@@ -14,10 +14,12 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/BlackTiger-Error404/without.git
+https://github.com/RanaMZ/ranaMZ-.git
 
 cd without
 
-python2 Happy.py
+python2 mz.py
 
-PAS:03037335114
+PAS:mz
+
+
